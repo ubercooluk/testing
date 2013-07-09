@@ -1,5 +1,5 @@
 hello cruel 122 5455 world
  
-changes
+changes to resolve with kdiff
 
 more lines added
