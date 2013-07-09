@@ -5,3 +5,5 @@ changes to resolve with kdiffdddd
 more lines added
 
 line4
+
+rebase check
