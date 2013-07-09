@@ -1,9 +1,3 @@
-to check stash
- 
-changes to resolve with kdiffdddd
-
-more lines added
-
-line4
+to check rebase
 
 rebase check
